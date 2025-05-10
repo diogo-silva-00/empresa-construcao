@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express'); 
 const cors = require('cors');
 const db = require('./db'); // Importando a conexão com o banco
 const funcionarioRoutes = require('./routes/funcionarios');
